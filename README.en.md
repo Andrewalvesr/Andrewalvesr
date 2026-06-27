@@ -18,12 +18,16 @@ I’m a **Computer Science** student passionate about technology, software devel
 
 ## 🛠️ Technical Skills
 
-| Category                | Technologies and Tools                                |
-| :---------------------- | :---------------------------------------------------- |
-| **Languages & Backend** | Python, Flask, Programming Logic, Automation          |
-| **Frontend**            | HTML5, CSS3, Responsive Layouts                       |
-| **Tools & DevOps**      | Git, GitHub, Third-Party APIs, Integrations           |
-| **Other Knowledge**     | Bots, Webhooks, API Consumption, Project Organization |
+| Category                      | Technologies and Tools                                |
+| :---------------------------- | :---------------------------------------------------- |
+| **Programming Languages**     | JavaScript, TypeScript, Python                        |
+| **Frontend**                  | HTML5, CSS3, React.js, Next.js, Responsive Layouts    |
+| **Backend**                   | Node.js, Flask, REST APIs                             |
+| **Databases**                 | SQL, Basic Data Modeling                              |
+| **Tools**                     | Git, GitHub, Docker                                   |
+| **Automation & Integrations** | n8n, Webhooks, API Consumption, Bots                  |
+| **Fundamentals**              | Programming Logic, Project Structure, Problem Solving |
+
 
 ---
 
@@ -56,8 +60,8 @@ Python script for collecting, curating, and suggesting health-related content th
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrewalvesr&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewalvesr&layout=compact&theme=tokyonight" />
 </div>
 
 ---
