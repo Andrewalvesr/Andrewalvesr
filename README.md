@@ -18,12 +18,15 @@ Sou estudante de **Ciência da Computação**, apaixonado por tecnologia, desenv
 
 ## 🛠️ Habilidades Técnicas
 
-| Categoria                | Tecnologias e Ferramentas                                |
-| :----------------------- | :------------------------------------------------------- |
-| **Linguagens & Backend** | Python, Flask, Lógica de Programação, Automações         |
-| **Frontend**             | HTML5, CSS3, Layout Responsivo                           |
-| **Ferramentas & DevOps** | Git, GitHub, APIs de Terceiros, Integrações              |
-| **Outros Conhecimentos** | Bots, Webhooks, Consumo de APIs, Organização de Projetos |
+| Categoria                     | Tecnologias e Ferramentas                            |
+| :---------------------------- | :--------------------------------------------------- |
+| **Linguagens de Programação** | JavaScript, TypeScript, Python                       |
+| **Frontend**                  | HTML5, CSS3, React.js, Next.js, Layout Responsivo    |
+| **Backend**                   | Node.js, Flask, APIs REST, Automações                |
+| **Banco de Dados**            | SQL                                                  |
+| **Ferramentas & DevOps**      | Git, GitHub, Docker                                  |
+| **Automações & Integrações**  | n8n, Webhooks, Integração com APIs de Terceiros      |
+| **Outros Conhecimentos**      | Bots, Organização de Projetos, Lógica de Programação |
 
 ---
 
